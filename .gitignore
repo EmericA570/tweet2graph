@@ -1,0 +1,6 @@
+/.conda
+/adjacency.npy
+/adjacency_sparse.npz
+/keywords.pkl
+/twitter_dataset.parquet
+/__pycache__
